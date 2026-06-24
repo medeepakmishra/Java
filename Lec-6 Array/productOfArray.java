@@ -19,4 +19,6 @@ public class productOfArray {
         }
         System.out.print(b);
     }
+
 }
+
